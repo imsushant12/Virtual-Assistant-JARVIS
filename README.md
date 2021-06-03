@@ -1,7 +1,10 @@
-# Virtual Assistant: JARVIS
+# Virtual Voice Assistant: JARVIS
 JARVIS is a context-aware software program that recognizes user's voice and executes commands.
+
+![image](https://user-images.githubusercontent.com/68695162/120705690-c52beb00-c4d5-11eb-812e-da661499fa2c.png)
+
 #
-## Thinks that JARVIS can do currently:
+## Thinks that JARVIS is able to do currently:
 1. Open numerous applications.
 2. Openm numerous webpages.
 3. Play games.
