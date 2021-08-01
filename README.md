@@ -4,7 +4,7 @@ JARVIS is a context-aware software program that recognizes user's voice and exec
 ![image](https://user-images.githubusercontent.com/68695162/120705690-c52beb00-c4d5-11eb-812e-da661499fa2c.png)
 
 #
-## Thinks that JARVIS is able to do currently:
+## What my JARVIS can do?
 1. Open numerous applications.
 2. Openm numerous webpages.
 3. Play games.
